@@ -1,17 +1,33 @@
 ### Eai, meu nome é Miguel Viggiano
-Tenho 22 anos, atualmente faço engenharia de software e desenvolvimento Web.
+Tenho 22 anos, atualmente faço engenharia de software, desenvolvimento Web e Python.
 
-<!--
-**miguelz1nxd/miguelz1nxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante de Engenharia de Software 
+- 📚 Banco de dados
+- 📚 Estudante de programação em Python
+- 🤖 Criador de automações e AI (Python)
+- 🌐 Web Developer Front-end
 
-Here are some ideas to get you started:
+- 💻 Atualmente aprendendo : 
+<div display='inline'>
+  <img widht='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
+  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Você me encontra também no: </h3>
+
+<div display='inline'>
+  <a href='https://www.linkedin.com/in/miguel-viggiano-ba8a24184/'>
+  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </>
+    
+### Veja alguns projetos pessoais:
+<div>
+  <a href='https://youtu.be/YpVTZOz31rc'>
+  <p> - Projeto de site do ZERO </>
+</>
+<div>
+  <a href='https://www.youtube.com/channel/UCubxGPM7S1dADPbpFkLXNOg'>
+  <p> - Meu canal no youtube onde eu falo sobre informática e tecnologia no geral
+</>
