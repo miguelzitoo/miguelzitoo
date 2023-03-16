@@ -35,3 +35,10 @@ Tenho 22 anos, atualmente faço engenharia de software, desenvolvimento Web e Py
   <a href='https://youtu.be/iHbwB7skgf0'>
   <p> - Projeto de Login Screen </>
 </>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
