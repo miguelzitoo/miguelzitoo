@@ -1,5 +1,5 @@
 ### Eai, meu nome é Miguel Viggiano
-Tenho 22 anos, atualmente faço engenharia de software, desenvolvimento Web e Python.
+Tenho 23 anos, atualmente faço engenharia de software, desenvolvimento Web e Python.
 
 - 📚 Estudante de Sistemas de informação 
 - 📚 Banco de dados
