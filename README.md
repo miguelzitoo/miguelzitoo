@@ -7,13 +7,6 @@ Tenho 23 anos, atualmente faço engenharia de software, desenvolvimento Web e Py
 - 🤖 Criador de automações e AI (Python)
 - 🌐 Web Developer Front-end
 
-- 💻 Atualmente aprendendo : 
-<div display='inline'>
-  <img widht='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
-  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img widht='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
 
 <h3> Você me encontra também no: </h3>
 
